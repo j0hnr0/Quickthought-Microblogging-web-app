@@ -5,8 +5,8 @@ import ErrorPage from "@/components/error-page";
 import ErrorBoundary from "@/components/error-boundary";
 
 export const metadata = {
-  title: "Personal Blog",
-  description: "See, Share, Post!",
+  title: "Quickthought - Microblog",
+  description: "Share your thoughts with the world!",
 };
 
 export default function RootLayout({ children }) {
