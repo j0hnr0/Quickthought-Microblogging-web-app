@@ -1,6 +1,6 @@
-# Personal Blog Platform
+# Quickthought - Microblog Platform
 
-A full-stack blog platform built with Next.js where users can register, login, and create posts. Built as a portfolio project to demonstrate full-stack development skills.
+A social media-style microblogging platform built with Next.js where users can register, login, and create quick posts. Built as a portfolio project to demonstrate full-stack development skills.
 
 ## Demo
 
