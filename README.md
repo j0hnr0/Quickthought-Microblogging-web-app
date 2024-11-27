@@ -4,7 +4,7 @@ A full-stack blog platform built with Next.js where users can register, login, a
 
 ## Demo
 
-[Live Demo](your-project-url.vercel.app)
+[Live Demo](https://quickthought.vercel.app/)
 
 ## Features
 
@@ -45,4 +45,4 @@ npm run dev
 
 ## Contact
 
-John Rovan - [Your GitHub](https://github.com/yourusername)
+John Rovan - [GitHub](https://github.com/j0hnr0)
