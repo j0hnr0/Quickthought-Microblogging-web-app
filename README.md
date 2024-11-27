@@ -1,6 +1,6 @@
 # Personal Blog Platform
 
-A full-stack blog platform built with Next.js where users can register, login, and share posts. Built as a portfolio project to demonstrate full-stack development skills.
+A full-stack blog platform built with Next.js where users can register, login, and create posts. Built as a portfolio project to demonstrate full-stack development skills.
 
 ## Demo
 
